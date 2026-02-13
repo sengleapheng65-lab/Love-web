@@ -9,6 +9,8 @@ body {
   align-items: center;
   height: 90vh;
   font-family: sans-serif;
+  position: relative;
+  overflow: hidden;
 }
 main {
   position: relative;
