@@ -49,4 +49,6 @@ button:nth-child(2) {
   background-color: rgb(255, 73, 182);
   color: white;
   transition: all 0.3s ease-out;
+  position: absolute;
+  touch-action: none;
 }
